@@ -2,3 +2,7 @@
 	object = 1a2876185fa1d677dddcbb81131aaa50d21c296f
 	path = module
 	type = expand module
+[map "00018c4b-f8cd-3de8-acbe-16e597566258"]
+	object = 1314529d4e63959dd6eae56f42a17a9171531ec1
+	path = module
+	type = expand module
